@@ -32,4 +32,6 @@ int main()
 
 	char c = '5';
 	cout << (int)c << endl;
+
+	cout << "하하호호히히" << endl;
 }
